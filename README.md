@@ -13,4 +13,4 @@ Just part of my hobby,
 | TXT | hold up |
 
 # Social
-Follow me on twi.. I don't have twitter, anyway just follow me on Tikt... I don't that neither. Just go to my [LinkTree](https://linktr.ee/IHZAQSTORM33) and all my social link will be there.
+Follow me on twi.. I don't have twitter, anyway just follow me on Tikt... I don't that neither. Just go to my [Carrd](https://ihz.carrd.co) and all my social link will be there.
