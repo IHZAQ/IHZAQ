@@ -12,7 +12,7 @@ Just part of my hobby,
 | Python | no |
 | TXT | hold up |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IHZAQSTORM33&count_private=true&theme=merco&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IHZAQSTORM33&count_private=true&theme=merco&show_icons=true)
 
 # Social
 Follow me on twi.. I don't have twitter, anyway just follow me on Tikt... I don't that neither. Just go to my [Carrd](https://ihz.carrd.co) and all my social link will be there.
