@@ -12,6 +12,9 @@ Just part of my hobby,
 | Python | no |
 | TXT | hold up |
 
+# Github Stats
+This is my stats and statistics
+But all of my projects were private because it not done yet
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IHZAQSTORM33&count_private=true&theme=merco&show_icons=true)
 
 # Social
