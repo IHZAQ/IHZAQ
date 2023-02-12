@@ -1,5 +1,12 @@
 # Yo out there
 Who me? Oh uh I'm Stormy, just regular developer
+#### Bio
+|🗿|Information|
+|--|--|
+| Pronouns | He/His/هو/Dia |
+| Birthday | 3rd November 2007 |
+| From | Malaysia 🇲🇾 |
+| Religion | Islam ☪️ |
 #### What my jobs
 I'm literally had no jobs 🙂
 Just part of my hobby,
