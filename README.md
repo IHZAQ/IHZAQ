@@ -22,7 +22,7 @@ Just part of my hobby,
 # Github Stats
 This is my stats and statistics
 But all of my projects were private because it not done yet
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IHZAQSTORM33&count_private=true&theme=merco&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IHZAQ&count_private=true&theme=merco&show_icons=true)
 
 # Social
 Follow me on twi.. I don't have twitter, anyway just follow me on Tikt... I don't that neither. Just go to my [Carrd](https://ihz.carrd.co) and all my social link will be there.
