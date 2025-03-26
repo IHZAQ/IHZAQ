@@ -44,7 +44,7 @@ Hey, I'm **IHZAQ** – a **Discord Bot Developer** crafting powerful bots using 
 
 | 🌐 Carrd                         | 💬 Discord                      | 📧 Email                      |
 |----------------------------------|----------------------------------|-------------------------------|
-| [![Carrd](https://cdn.discordapp.com/attachments/938775562640584714/1354374799341785088/carrd.png?ex=67e50f53&is=67e3bdd3&hm=775de5255c91c617db50f1bd3090736eb8e6c33970167aaa4496a2024aa7c272&)](https://ihz.carrd.co) | [![Discord](https://img.icons8.com/ios/39/discord-logo--v1.png)](https://discord.gg/ndEftjM) | [![Email](https://img.icons8.com/color/48/new-post.png)](mailto:IHZAQ@yahoo.com) |
+| [![Carrd](https://img.icons8.com/color/48/carrd.png)](https://ihz.carrd.co) | [![Discord](https://img.icons8.com/color/48/discord-logo.png)](https://discord.gg/ndEftjM) | [![Email](https://img.icons8.com/color/48/new-post.png)](mailto:IHZAQ@yahoo.com) |
 
 ---
 
