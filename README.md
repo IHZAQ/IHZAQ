@@ -31,6 +31,8 @@ Hey, I'm **IHZAQ** – a **Discord Bot Developer** crafting powerful bots using 
 ## 🎓 Education  
 
 - **Technical School** – Studies in **Electrical and Electronic Engineering**  
+- **SPM Results** – 🏅 *5A+ & 5A*  
+- **English Proficiency** – CEFR Level: **B2**  
 
 ---
 
@@ -48,4 +50,4 @@ Hey, I'm **IHZAQ** – a **Discord Bot Developer** crafting powerful bots using 
 
 ---
 
-✨ *Always learning, always building.* 
+✨ *Always learning, always building.*
