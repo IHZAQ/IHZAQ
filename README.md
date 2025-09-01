@@ -30,6 +30,7 @@ Hey, I'm **IHZAQ** – a **Discord Bot Developer** crafting powerful bots using 
 
 ## 🎓 Education  
 
+- **Foundation in Electrical and Electronics Engineering** – *Universiti Teknologi PETRONAS (UTP)*
 - **Technical School** – Studies in **Electrical and Electronic Engineering**  
 - **SPM Results** – 🏅 *5A+ & 5A*  
 - **English Proficiency** – CEFR Level: **B2**  
